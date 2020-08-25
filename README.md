@@ -1,4 +1,4 @@
-# tweeme-ios
+# tweeme-ios ![Build status](https://app.bitrise.io/app/2b8cc5a7fd297147/status.svg?token=8ydg-EFzwsE6DgWaGO9U9w&branch=develop)
 Ultimate tweet-only Twitter tool
 
 ## Jak uruchomić aplikację?
